@@ -1,0 +1,144 @@
+html{
+	background-color:rgba(255,255,255,1);
+}
+body{
+	display: block;
+	margin:right 40px;
+}
+header{
+	font-family:sans-serif ;
+	font-size: 15px;
+	color: #cfcfcf;
+}
+p{
+	font-family:sans-serif ;
+	text-align: justify;
+}
+h1{
+	font-family:sans-serif ;
+}
+h3{
+	font-family:sans-serif ;
+	font-weight: bold;
+}
+li{
+	font-family:sans-serif ;
+}
+.Titulo{
+	font-size: 30px;
+	color: #051050;
+	font-weight: bold;
+}
+.section1 p{
+	color: #051050;
+}
+.span1 {
+	color: #830505;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+}
+.section2 p{
+	color: #051050;
+}
+.section3 p{
+	color: #051050;
+}
+.span2 {
+	color: #830505;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+}
+.span3 {
+	color: #830505;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+}
+.span4 {
+	color: #830505;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+}
+.section4 h1{
+	color: #051050;
+	font-size: 20pxS;
+	font-weight: bold;
+}
+.section5 h1{
+	color: #051050;
+	font-size: 20pxS;
+	font-weight: bold;
+}
+li{
+	color: #051050;
+}
+a{
+	color: #051050;
+	text-decoration: none
+}
+a:hover{color:#830505;
+		text-decoration: underline;
+}
+a:active{
+	color: orange
+}
+a:visited{
+	color:#cfcfcf
+}
+footer{
+	text-decoration: line-through;
+	color: #cfcfcf;
+	font-family:sans-serif ;
+	font-style:italic;
+	
+}
+.square2 {
+	height: 50px;
+	width:auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.red{
+	color: #830505;
+}
+.square1 {
+	height: 50px;
+	width: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+  .red {
+	background-color:#830505;
+  }
+.blue {
+	background-color:#051050;
+ }
+ .square3 {
+	height: 10px;
+	width: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+.foot{
+	background-color:#cfcfcf;
+}
+
+/para quitar subrrayado al texto
+pseudo clases
+	a{color: green
+	text-decoration: none}
+
+para hacer que cambe de color y subraye al pasar el puntero se hace
+	a:hover{color:#051050;
+		text-decoration: underline;}
+para que cambie de color al hacer click
+	a:active{ color: orange}
+cuando ya se visitó la pagina
+	a:visited{color:#cfcfcf 
+para la proxima clase investigar que es reset css y como aplicarlo a la pagna/
