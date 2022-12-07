@@ -133,12 +133,3 @@ footer{
 pseudo clases
 	a{color: green
 	text-decoration: none}
-
-para hacer que cambe de color y subraye al pasar el puntero se hace
-	a:hover{color:#051050;
-		text-decoration: underline;}
-para que cambie de color al hacer click
-	a:active{ color: orange}
-cuando ya se visitó la pagina
-	a:visited{color:#cfcfcf 
-para la proxima clase investigar que es reset css y como aplicarlo a la pagna/
